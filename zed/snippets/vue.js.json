@@ -1,0 +1,15 @@
+{
+  "Vue SFC": {
+    "prefix": "vbase",
+    "body": [
+      "<template>",
+      "$0",
+      "</template>",
+      "",
+      "<script setup lang=\"ts\">",
+      "",
+      "</script>",
+      "",
+    ]
+  }
+}
